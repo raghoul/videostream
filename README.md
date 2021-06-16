@@ -1,5 +1,7 @@
 # README
 
+ installer ffmpeg avant
+ 
 bundle install
 
 rails db:create
